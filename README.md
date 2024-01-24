@@ -2,8 +2,11 @@
 Research Project/Thesis for Completion of Masters of Data Science in Universiti Malaya, Malaysia
 
 Name: SHALVEN A/L VIGHNES
+
 Student ID: S2182885
+
 Course: Masters of Data Science
+
 Supervisor: Assoc. Prof. Dr.Kasturi Dewi Varathan
 
 
