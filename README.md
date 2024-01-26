@@ -16,3 +16,5 @@ TOTAL_NEW_25_11_23_data_clean.ipynb - This file is the completed and final versi
 
 
 Information Gain and Probability Conditioning Basic (Using Benchmark method on Cleaned UMMC DATA).ipynb - This file is about using benchmark techniques on the cleaned UMMC dataset which later used to compare its performance. This is a Filter Method Feature Selection technique. 
+
+RFE.ipynb- This file is about using RFE on the Cleaned UMMC Dataset.
